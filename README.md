@@ -1,4 +1,6 @@
-🌵 Hello, I'm Sam, a British programmer and CS student🌜
+### 🌵 Hello 🌜
+
+I'm **Sam**, a British programmer, composer and CS student.
 
 I like Dungeon Synth, Java, the American West and cybersecurity.
 
@@ -8,13 +10,17 @@ Go to my repos for a mix of uni assignments, personal projects and (soon) collab
 
 When I'm not studying or coding I make [Folk tunes](www.aparanoidking.bandcamp.com), edit [radio docs](www.mixcloud.com/samuelcommander) and take [polaroids](https://www.instagram.com/p/B-hWgkspDnW/).
 
-🔗 Links:
-
+<details>
+<summary>🔗 Links:</summary>
+<br>
+  
 [Bandcamp](www.aparanoidking.bandcamp.com)
-
+  
 [Instagram](www.instagram.com/aparanoidking)
-
+  
 [Linkedin](www.linkedin.com/in/samuel-c-a303a2129/)
+  
+</details>
 
 
 
