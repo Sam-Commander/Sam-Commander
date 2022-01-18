@@ -8,17 +8,17 @@ If I can somehow find a job that incorporates all four of these I'll be on my wa
 
 Go to my repos for a mix of uni assignments, personal projects and (soon) collabs.
 
-When I'm not studying or coding I make [Folk tunes](www.aparanoidking.bandcamp.com), edit [radio docs](www.mixcloud.com/samuelcommander) and take [polaroids](https://www.instagram.com/p/B-hWgkspDnW/).
+When I'm not studying or coding I make [Folk tunes](https://www.aparanoidking.bandcamp.com), edit [radio docs](https://www.mixcloud.com/samuelcommander) and take [polaroids](https://www.instagram.com/p/B-hWgkspDnW/).
 
 <details>
 <summary>🔗 Links:</summary>
 <br>
   
-[Bandcamp](www.aparanoidking.bandcamp.com)
+[Bandcamp](https://www.aparanoidking.bandcamp.com)
   
-[Instagram](www.instagram.com/aparanoidking)
+[Instagram](https://www.instagram.com/aparanoidking)
   
-[Linkedin](www.linkedin.com/in/samuel-c-a303a2129/)
+[Linkedin](https://www.linkedin.com/in/samuelcommander/)
   
 </details>
 
