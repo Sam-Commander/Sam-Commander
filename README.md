@@ -2,9 +2,9 @@
 
 I'm **Sam**, a British programmer, music producer and CS student.
 
-I like Java, Dungeon Synth, full stack and the American West.
+I like Java, Dungeon Synth, Android Dev and the American West.
 
-If I can somehow find a job that incorporates all four of these I'll be on my way.
+A day that involves all four is a good day.
 
 Go to my repos for a mix of uni assignments, personal projects and (soon) collabs.
 
