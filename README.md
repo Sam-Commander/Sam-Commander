@@ -8,7 +8,7 @@ A day that involves all four is a good day.
 
 Go to my repos for a mix of uni assignments, personal projects and (soon) collabs.
 
-When I'm not studying or coding I make [Folk tunes](https://www.aparanoidking.bandcamp.com), edit [radio docs](https://www.mixcloud.com/samuelcommander) and take [polaroids](https://www.instagram.com/p/B-hWgkspDnW/).
+When I'm not studying or coding I make [Folk tunes](https://www.aparanoidking.bandcamp.com).
 
 <details>
 <summary>🔗 Links:</summary>
