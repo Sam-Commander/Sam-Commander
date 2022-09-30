@@ -6,7 +6,7 @@ I like Java, Dungeon Synth, Android Dev and the American West.
 
 A day that involves all four is a good day.
 
-Go to my repos for a mix of uni assignments, personal projects and (soon) collabs.
+Go to my repos for a mix of uni assignments and personal projects.
 
 When I'm not studying or coding I make [Folk tunes](https://www.aparanoidking.bandcamp.com).
 
