@@ -2,7 +2,7 @@
 
 I'm **Sam**, a British programmer, music producer and CS student.
 
-I like Java, Dungeon Synth, Android Dev and the American West.
+I like Java, Android Dev and Dungeon Synth.
 
 A day that involves all four is a good day.
 
