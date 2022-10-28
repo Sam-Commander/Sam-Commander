@@ -4,7 +4,7 @@ I'm **Sam**, a British programmer, music producer and CS student.
 
 I like Java, Android Dev and Dungeon Synth.
 
-A day that involves all four is a good day.
+A day that involves all three is a good day.
 
 Go to my repos for a mix of uni assignments and personal projects.
 
