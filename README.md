@@ -8,6 +8,8 @@ A day that involves all three is a good day.
 
 Go to my repos for a mix of uni assignments and personal projects.
 
+My largest project, BandPal - an android social media app written in Kotlin with Google Firebase, is private atm.
+
 When I'm not studying or coding I make [Folk tunes](https://www.aparanoidking.bandcamp.com).
 
 <details>
