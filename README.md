@@ -1,6 +1,6 @@
 ### 🌵 Hello 🌜
 
-I'm **Sam**, a British programmer and music producer.
+I'm **Sam**, a British programmer.
 
 I like Java, Android Dev and Folk music.
 
