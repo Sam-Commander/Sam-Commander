@@ -8,8 +8,6 @@ A day that involves all three is a good day.
 
 Go to my repos for a mix of personal projects and uni assignments.
 
-My largest project, BandPal, an android social media app in Kotlin, is private atm.
-
 <details>
 <summary>🔗 Links:</summary>
 <br>
